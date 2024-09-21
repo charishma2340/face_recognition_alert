@@ -1,3 +1,1 @@
-# One_Shot_Learning
-
-## Please refer the document attached to this repo
+This project discusses all about an automated attendance tracking and the notification system using facial recognition technology. The main components included in the system are face detection, face recognition, attendance marking, and sending notification through email and system notifications.
