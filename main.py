@@ -27,14 +27,19 @@ SMTP_PORT = int(os.getenv('SMTP_PORT'))
 
 name_to_email = {
     '568': 'sravyaa43@gmail.com',
+    '573': 'meghanabolleddu20@gmail.com',
+    '592': 'kammadanamshirisha7@gmail.com',
+    '595': 'lavudivenusri004@gmail.com',
     '5A1': 'vineelareddymandadi1922@gmail.com',
+    '5A4': 'n.vijaysimhareddy123@gmail.com',
+    '5A6': 'susannajoyce21@gmail.com',
     '5A9': 'prashanthpotta722@gmail.com',
     '5B4': 'rasinenicharishma22@gmail.com',
-    '5A4':'n.vijaysimhareddy123@gmail.com',
-    '592':'kammadanamshirisha7@gmail.com',
-    '595':'lavudivenusri004@gmail.com',
-    '5c6':'vallakatlachaitanya2003@gmail.com',
-    '5C0':'srikeshshekapuram0711@gmail.com',
+    '5C0': 'srikeshshekapuram0711@gmail.com',
+    '5C6': 'vallakatlachaitanya2003@gmail.com',
+    '5C8': 'rishithaveeramalla18731@gmail.com',
+    'Deepika Mam': 'deepikarani543@gmail.com',
+    
     
 }
 
