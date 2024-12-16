@@ -16,8 +16,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-path = r"C:\Users\rasin\OneDrive\Documents\Custom Office Templates\Desktop\EEN\Face-Recognition-Attendance-Projects-main\Training_images"
-attendance_path = r"C:\Users\rasin\OneDrive\Documents\Custom Office Templates\Desktop\EEN\Face-Recognition-Attendance-Projects-main\Attendance.csv"
+path = r"Copy folder path "
+attendance_path = r"Copy attendance.csv path "
 
 
 EMAIL_ADDRESS = os.getenv('EMAIL_ADDRESS')
