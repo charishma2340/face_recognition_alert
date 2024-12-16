@@ -188,7 +188,7 @@ cv2.destroyAllWindows()
 
 # Separate test script to test email sending functionality
 def send_test_email():
-    to_email = "vineelareddymandadi1922@gmail.com"
+    to_email = "charirasineni@gmail.com"
     subject = "Test Email"
     body = "This is a test email to verify the email sending functionality."
 
